@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * print_square - Prints n squares according n number of times
@@ -28,3 +28,4 @@ void print_square(int size)
 	}
 	}
 }
+
